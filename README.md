@@ -1,0 +1,2 @@
+# Squeezers
+ Squealers is a RTS game set in a fictional setting and time based on New York City in the 1940s. The player controls a gang of mobsters, part of an organized crime agency called Santos. Their job is to collect anything that can be proven useful from individuals that are not willingly giving it. That can range from debt from someone that is paying Santos for safety to information from a well-known informant.
